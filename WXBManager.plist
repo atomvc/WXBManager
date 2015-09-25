@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.weixiangben.v1</string>
+				<string>com.weixiangben.meiji</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微相本</string>
+				<string>美辑企业版</string>
 			</dict>
 		</dict>
 	</array>
